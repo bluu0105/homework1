@@ -1,0 +1,3 @@
+What is a remote repository?
+
+It's a repository that's stored on a server, rather than locally on your computer, and repositories just store the files and code related to a project and also any history of changes committed.
