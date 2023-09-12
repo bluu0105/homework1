@@ -3,3 +3,7 @@ What is the difference between a merge and a rebase?
 Merges take the latest commit on a master branch and latest commit on a different branch and merge their changes into a new commit on the master branch. (Keeping all the information on prior commits)
 
 Rebases on the other hand rebase or use the latest commit on the master branch as the base that the other branch will branch off of. Which makes the commit history linear and more organized but makes it harder to keep track of all versions and branches.
+
+What is a remote repository?
+
+It's a repository that's stored on a server, rather than locally on your computer, and repositories just store the files and code related to a project and also any history of changes committed.
